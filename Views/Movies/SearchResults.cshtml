@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Movie>
+@using System.Globalization
+
+@{
+    CultureInfo culture = new CultureInfo("en-US");
+    ViewData["Title"] = "List of Movies";
+}
+
+<!-- التصميم وباقي الاستايلات كما في الكود الأصلي -->
+<body>
+    <div class="container page-content">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3" style="margin-top: 15px;">
+            @foreach (var item in Model)
+            {
+                <div class="col mb-3">
+                    <div class="card h-100">
+                        <div class="card-header">
+                            <h5 class="card-title">
+                                <span style="color: white;">@item.Name</span>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a class="text-white float-right" asp-action="Edit" asp-route-id="@item.Id">
+                                        <i class="bi bi-pencil-square"></i>
+                                    </a>
+                                }
+                            </h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="/images/@item.ImageURL" class="card-img-top" alt="@item.Name">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="card-text">@item.Description</p>
+                                    <p class="card-text"><b>Cinema: </b>@item.Cinema.Name</p>
+                                    <p class="card-text"><b>Category: </b>@item.MovieCategory</p>
+                                    <p class="card-text"><b>Start Date: </b>@item.StartDate.ToString("dd MMM yy", culture)</p>
+                                    <p class="card-text"><b>End Date: </b>@item.EndDate.ToString("dd MMM yy", culture)</p>
+                                    <p class="card-text">
+                                        <b>Status: </b>
+                                        @if (DateTime.Now >= item.StartDate && DateTime.Now <= item.EndDate)
+                                        {
+                                            <span class="badge badge-available">Available</span>
+                                        }
+                                        else if (DateTime.Now > item.EndDate)
+                                        {
+                                            <span class="badge badge-expired">Expired</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge badge-upcoming">Upcoming</span>
+                                        }
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="action-buttons">
+                                <a class="btn" asp-action="Details" asp-route-id="@item.Id">
+                                    <i class="bi bi-eye-fill"></i> Show Details
+                                </a>
+                                <a class="btn btn-success text-white @((DateTime.Now > item.EndDate) ? "disabled" : "")"
+                                   asp-controller="Orders"
+                                   asp-action="AddItemToShoppingCart"
+                                   asp-route-id="@item.Id">
+                                    <i class="bi bi-cart-plus"></i> Add to Cart (Price @item.Price.ToString("c", culture))
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="text-center mt-4">
+            <a href="/" class="btn rounded-circle d-flex justify-content-center align-items-center shadow"
+               style="width: 100px; height: 100px; background: linear-gradient(135deg, #28a745, #218838); color: white;
+              border: none; text-decoration: none; font-size: 1.5rem; font-weight: bold;">
+                Back
+            </a>
+        </div>
+    </div>
+</body>
+
+

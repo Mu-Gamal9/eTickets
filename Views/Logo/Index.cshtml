@@ -1,0 +1,40 @@
+﻿@model eTickets.Models.Logo
+
+<div class="logo-container">
+    <div class="logo-image">
+        @if (!string.IsNullOrEmpty(Model?.LogoImage))
+        {
+            <img src="@Model.LogoImage" alt="Logo" id="logo-img" />
+        }
+        else
+        {
+            <p>No logo available</p>
+        }
+    </div>
+
+    <div class="dropdown-container">
+        <select id="logoAction" onchange="toggleForms()">
+            <option value="add">Add Logo</option>
+            <option value="remove">Remove Logo</option>
+        </select>
+
+ 
+        <form asp-action="UploadLogo" method="post" enctype="multipart/form-data" id="addLogoForm">
+            <input type="file" name="logoImage" accept="image/*" />
+            <button type="submit">Upload Logo</button>
+        </form>
+
+        
+        <form asp-action="DeleteLogo" method="post" id="removeLogoForm" style="display:none;">
+            <button type="submit">Remove Logo</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    function toggleForms() {
+        const selectedAction = document.getElementById("logoAction").value;
+        document.getElementById("addLogoForm").style.display = selectedAction === "add" ? "block" : "none";
+        document.getElementById("removeLogoForm").style.display = selectedAction === "remove" ? "block" : "none";
+    }
+</script>

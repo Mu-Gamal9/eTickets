@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eTickets.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eTickets.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\......jfif",
+      "PackagePath": "staticwebassets\\images\\......jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\123.jpg",
+      "PackagePath": "staticwebassets\\images\\123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\1673539561248.jpg",
+      "PackagePath": "staticwebassets\\images\\1673539561248.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\1e6027bf-2498-4b8f-ae97-210eadfec23e_Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\1e6027bf-2498-4b8f-ae97-210eadfec23e_Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\2d0924b1-e440-4868-8ed8-d458f9a09a62_test.jpg",
+      "PackagePath": "staticwebassets\\images\\2d0924b1-e440-4868-8ed8-d458f9a09a62_test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\2f48ca41-07cc-4ad5-947c-fff41031a784_mohamed fawzey.jpeg",
+      "PackagePath": "staticwebassets\\images\\2f48ca41-07cc-4ad5-947c-fff41031a784_mohamed fawzey.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\3fc93604-99a7-466d-b35e-6671789aa5f3_Order4.jpg",
+      "PackagePath": "staticwebassets\\images\\3fc93604-99a7-466d-b35e-6671789aa5f3_Order4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\431627a5-1313-40d3-97c4-3b47a2fa30f1_oo.jpg",
+      "PackagePath": "staticwebassets\\images\\431627a5-1313-40d3-97c4-3b47a2fa30f1_oo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\50e2aa8e-04e5-4fdc-a683-c607d2fa03ba_Ticket.jpg",
+      "PackagePath": "staticwebassets\\images\\50e2aa8e-04e5-4fdc-a683-c607d2fa03ba_Ticket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\5568123b-ba30-41a6-bff5-8311082af41d_poster.jpg",
+      "PackagePath": "staticwebassets\\images\\5568123b-ba30-41a6-bff5-8311082af41d_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\59f8bae5-3592-4829-a1da-d90e27d4ef2c_poster.jpg",
+      "PackagePath": "staticwebassets\\images\\59f8bae5-3592-4829-a1da-d90e27d4ef2c_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\63c4706b-1d1f-4528-bae7-5f62a8e0ae69_Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\63c4706b-1d1f-4528-bae7-5f62a8e0ae69_Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\6a00ba19-b516-4833-84a0-30997db8add4_oo3.jpg",
+      "PackagePath": "staticwebassets\\images\\6a00ba19-b516-4833-84a0-30997db8add4_oo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\7b4a3a14-c66e-4532-ac02-5480b114020a_Christopher Nolan.jfif",
+      "PackagePath": "staticwebassets\\images\\7b4a3a14-c66e-4532-ac02-5480b114020a_Christopher Nolan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\7dbf71dc-7618-46cf-b9cd-c89c35fc74c5_عاشق.jpg",
+      "PackagePath": "staticwebassets\\images\\7dbf71dc-7618-46cf-b9cd-c89c35fc74c5_عاشق.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\7f918697-3cc5-4af8-ba38-32b2ec370415_hero.jfif",
+      "PackagePath": "staticwebassets\\images\\7f918697-3cc5-4af8-ba38-32b2ec370415_hero.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\84d2140d-1990-4667-8aec-85ab41e09639_oo3.jpg",
+      "PackagePath": "staticwebassets\\images\\84d2140d-1990-4667-8aec-85ab41e09639_oo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\917b7b56-b91b-4bee-8c71-abf1e11dd3da_Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\917b7b56-b91b-4bee-8c71-abf1e11dd3da_Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\About.jpg",
+      "PackagePath": "staticwebassets\\images\\About.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\About1.jpg",
+      "PackagePath": "staticwebassets\\images\\About1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\About2.png",
+      "PackagePath": "staticwebassets\\images\\About2.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Add.jpg",
+      "PackagePath": "staticwebassets\\images\\Add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Add1.jfif",
+      "PackagePath": "staticwebassets\\images\\Add1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Add2.jpg",
+      "PackagePath": "staticwebassets\\images\\Add2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDelete.png",
+      "PackagePath": "staticwebassets\\images\\AdminDelete.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails1.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails1.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails2.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails2.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails3.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails3.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails4.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails4.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails5.jfif",
+      "PackagePath": "staticwebassets\\images\\AdminDetails5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails5.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails6.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails7.png",
+      "PackagePath": "staticwebassets\\images\\AdminDetails7.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails8.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminDetails8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminDetails9.png",
+      "PackagePath": "staticwebassets\\images\\AdminDetails9.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AdminEdit.jpg",
+      "PackagePath": "staticwebassets\\images\\AdminEdit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\All.jpg",
+      "PackagePath": "staticwebassets\\images\\All.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AllAdmin.jpg",
+      "PackagePath": "staticwebassets\\images\\AllAdmin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AllAdmin1.jpg",
+      "PackagePath": "staticwebassets\\images\\AllAdmin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AllAdmin2.jpg",
+      "PackagePath": "staticwebassets\\images\\AllAdmin2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\AllHeroes.jfif",
+      "PackagePath": "staticwebassets\\images\\AllHeroes.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Asl Esod.jpeg",
+      "PackagePath": "staticwebassets\\images\\Asl Esod.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Black Panther.jfif",
+      "PackagePath": "staticwebassets\\images\\Black Panther.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Bradley Cooper.jfif",
+      "PackagePath": "staticwebassets\\images\\Bradley Cooper.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Children's Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Children's Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Christian Bale.jfif",
+      "PackagePath": "staticwebassets\\images\\Christian Bale.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Christopher Nolan.jfif",
+      "PackagePath": "staticwebassets\\images\\Christopher Nolan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema.jfif",
+      "PackagePath": "staticwebassets\\images\\Cinema.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema1.jpg",
+      "PackagePath": "staticwebassets\\images\\Cinema1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema2.jfif",
+      "PackagePath": "staticwebassets\\images\\Cinema2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema2.jpg",
+      "PackagePath": "staticwebassets\\images\\Cinema2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema3.jpg",
+      "PackagePath": "staticwebassets\\images\\Cinema3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema4.jpg",
+      "PackagePath": "staticwebassets\\images\\Cinema4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema5.jpg",
+      "PackagePath": "staticwebassets\\images\\Cinema5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Cinema6.jfif",
+      "PackagePath": "staticwebassets\\images\\Cinema6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Community Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Community Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Complete.jfif",
+      "PackagePath": "staticwebassets\\images\\Complete.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Complete1.jpg",
+      "PackagePath": "staticwebassets\\images\\Complete1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Complete2.jpg",
+      "PackagePath": "staticwebassets\\images\\Complete2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\DeleteAdmin.jfif",
+      "PackagePath": "staticwebassets\\images\\DeleteAdmin.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\DeleteAdmin1.jpg",
+      "PackagePath": "staticwebassets\\images\\DeleteAdmin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Detail.jpg",
+      "PackagePath": "staticwebassets\\images\\Detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Details.jfif",
+      "PackagePath": "staticwebassets\\images\\Details.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Details.jpg",
+      "PackagePath": "staticwebassets\\images\\Details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Details1.jpg",
+      "PackagePath": "staticwebassets\\images\\Details1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Details6.jpg",
+      "PackagePath": "staticwebassets\\images\\Details6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Drive-In Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Drive-In Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Ed Helms.jfif",
+      "PackagePath": "staticwebassets\\images\\Ed Helms.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Edit.jpg",
+      "PackagePath": "staticwebassets\\images\\Edit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Edit1.jpg",
+      "PackagePath": "staticwebassets\\images\\Edit1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Forrest Gump.jfif",
+      "PackagePath": "staticwebassets\\images\\Forrest Gump.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Fred Rogers.jfif",
+      "PackagePath": "staticwebassets\\images\\Fred Rogers.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\George Miller.jfif",
+      "PackagePath": "staticwebassets\\images\\George Miller.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\HellBoy.jpg",
+      "PackagePath": "staticwebassets\\images\\HellBoy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Hero.jpg",
+      "PackagePath": "staticwebassets\\images\\Hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\IMAX Theaters.jfif",
+      "PackagePath": "staticwebassets\\images\\IMAX Theaters.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Independent Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Independent Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Iron Man.jfif",
+      "PackagePath": "staticwebassets\\images\\Iron Man.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Jack Nicholson.jfif",
+      "PackagePath": "staticwebassets\\images\\Jack Nicholson.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Jonah Hill.jfif",
+      "PackagePath": "staticwebassets\\images\\Jonah Hill.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Judd Apatow.jfif",
+      "PackagePath": "staticwebassets\\images\\Judd Apatow.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Leonardo DiCaprio.jfif",
+      "PackagePath": "staticwebassets\\images\\Leonardo DiCaprio.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\List.jpg",
+      "PackagePath": "staticwebassets\\images\\List.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\List1.jpg",
+      "PackagePath": "staticwebassets\\images\\List1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\List4.jpg",
+      "PackagePath": "staticwebassets\\images\\List4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\List5.jfif",
+      "PackagePath": "staticwebassets\\images\\List5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Luc Jacquet.jfif",
+      "PackagePath": "staticwebassets\\images\\Luc Jacquet.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Mad Max.jfif",
+      "PackagePath": "staticwebassets\\images\\Mad Max.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\March of the Penguins.jfif",
+      "PackagePath": "staticwebassets\\images\\March of the Penguins.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Michael Cera.jfif",
+      "PackagePath": "staticwebassets\\images\\Michael Cera.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Morgan Freeman.jfif",
+      "PackagePath": "staticwebassets\\images\\Morgan Freeman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Morgan Neville.jfif",
+      "PackagePath": "staticwebassets\\images\\Morgan Neville.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\MovieDetails.jpg",
+      "PackagePath": "staticwebassets\\images\\MovieDetails.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\MovieDetails2.jpg",
+      "PackagePath": "staticwebassets\\images\\MovieDetails2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\MovieEdit.jpg",
+      "PackagePath": "staticwebassets\\images\\MovieEdit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Multiplex Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Multiplex Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Niki Marvin.jfif",
+      "PackagePath": "staticwebassets\\images\\Niki Marvin.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order1.jpg",
+      "PackagePath": "staticwebassets\\images\\Order1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order2.jpg",
+      "PackagePath": "staticwebassets\\images\\Order2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order4.jpg",
+      "PackagePath": "staticwebassets\\images\\Order4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order5.jpg",
+      "PackagePath": "staticwebassets\\images\\Order5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order6.jpg",
+      "PackagePath": "staticwebassets\\images\\Order6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order7.jpg",
+      "PackagePath": "staticwebassets\\images\\Order7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Order8.jpg",
+      "PackagePath": "staticwebassets\\images\\Order8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Pixar Animation Studios.jfif",
+      "PackagePath": "staticwebassets\\images\\Pixar Animation Studios.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Privacy.jpg",
+      "PackagePath": "staticwebassets\\images\\Privacy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Privacy2.jpg",
+      "PackagePath": "staticwebassets\\images\\Privacy2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile1.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile2.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile3.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile4.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile6.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile7.png",
+      "PackagePath": "staticwebassets\\images\\Profile7.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Profile8.jpg",
+      "PackagePath": "staticwebassets\\images\\Profile8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\RegisterLogin.jpg",
+      "PackagePath": "staticwebassets\\images\\RegisterLogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\RegisterLogin1.jpg",
+      "PackagePath": "staticwebassets\\images\\RegisterLogin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Screenshot 2024-09-08 184044.jpg",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-08 184044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Shopping.png",
+      "PackagePath": "staticwebassets\\images\\Shopping.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Shopping1.jfif",
+      "PackagePath": "staticwebassets\\images\\Shopping1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Shopping2.jpg",
+      "PackagePath": "staticwebassets\\images\\Shopping2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Specialty Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\Specialty Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Stanley Kubrick.jfif",
+      "PackagePath": "staticwebassets\\images\\Stanley Kubrick.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Superbad.jfif",
+      "PackagePath": "staticwebassets\\images\\Superbad.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\The Dark Knight.jfif",
+      "PackagePath": "staticwebassets\\images\\The Dark Knight.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\The Hangover.jfif",
+      "PackagePath": "staticwebassets\\images\\The Hangover.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\The Shawshank Redemption.jfif",
+      "PackagePath": "staticwebassets\\images\\The Shawshank Redemption.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\The Shining.jfif",
+      "PackagePath": "staticwebassets\\images\\The Shining.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Tim Allen.jfif",
+      "PackagePath": "staticwebassets\\images\\Tim Allen.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Tim Robbins.jfif",
+      "PackagePath": "staticwebassets\\images\\Tim Robbins.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Todd Phillips.jfif",
+      "PackagePath": "staticwebassets\\images\\Todd Phillips.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Tom Hanks.jfif",
+      "PackagePath": "staticwebassets\\images\\Tom Hanks.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Tom Hardy.jfif",
+      "PackagePath": "staticwebassets\\images\\Tom Hardy.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Users.png",
+      "PackagePath": "staticwebassets\\images\\Users.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\VIP or Luxury Cinemas.jfif",
+      "PackagePath": "staticwebassets\\images\\VIP or Luxury Cinemas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Welcome.jpg",
+      "PackagePath": "staticwebassets\\images\\Welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Wendy Finerman.jfif",
+      "PackagePath": "staticwebassets\\images\\Wendy Finerman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\WhatsApp Image 2024-06-12 at 22.26.31_71f49426.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-06-12 at 22.26.31_71f49426.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\WhatsApp_Image_2024-06-12_at_22.26.31_71f49426-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\WhatsApp_Image_2024-06-12_at_22.26.31_71f49426-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Won't_You_Be_My_Neighbor.jfif",
+      "PackagePath": "staticwebassets\\images\\Won't_You_Be_My_Neighbor.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\Zach Galifianakis.jfif",
+      "PackagePath": "staticwebassets\\images\\Zach Galifianakis.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\a18f718e-c9de-4590-9b61-10ad40a034b7_Christopher Nolan.jfif",
+      "PackagePath": "staticwebassets\\images\\a18f718e-c9de-4590-9b61-10ad40a034b7_Christopher Nolan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\a94b7871-68fd-4233-a0d1-d0be9e2a8b82_contact.jpeg",
+      "PackagePath": "staticwebassets\\images\\a94b7871-68fd-4233-a0d1-d0be9e2a8b82_contact.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\ahmed helmy.jpeg",
+      "PackagePath": "staticwebassets\\images\\ahmed helmy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\b4429fd4-0811-45a4-8208-dcbddf8718eb_oo1.jpg",
+      "PackagePath": "staticwebassets\\images\\b4429fd4-0811-45a4-8208-dcbddf8718eb_oo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\b8569708-bc55-4cf5-85b2-58115f0e868f_Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\b8569708-bc55-4cf5-85b2-58115f0e868f_Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\b8ecc5c3-87d9-4bda-8fe1-c73e58f98f19_Batman.jfif",
+      "PackagePath": "staticwebassets\\images\\b8ecc5c3-87d9-4bda-8fe1-c73e58f98f19_Batman.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\backgraound.jpeg",
+      "PackagePath": "staticwebassets\\images\\backgraound.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\blue white.jpg",
+      "PackagePath": "staticwebassets\\images\\blue white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\c181e447-279d-4f3d-9c00-79c056da40c3_oo3.jpg",
+      "PackagePath": "staticwebassets\\images\\c181e447-279d-4f3d-9c00-79c056da40c3_oo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\cinema.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\cinema8.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\completeRegister.jpg",
+      "PackagePath": "staticwebassets\\images\\completeRegister.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\concept.jpg",
+      "PackagePath": "staticwebassets\\images\\concept.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\d706e0a0-479a-4334-94f8-18b89b7d6f97_Christopher Nolan.jfif",
+      "PackagePath": "staticwebassets\\images\\d706e0a0-479a-4334-94f8-18b89b7d6f97_Christopher Nolan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\d7ed7ce7-a6d0-4767-a83b-79835f655e88_ahmed helmy.jpeg",
+      "PackagePath": "staticwebassets\\images\\d7ed7ce7-a6d0-4767-a83b-79835f655e88_ahmed helmy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\donia samir.jpeg",
+      "PackagePath": "staticwebassets\\images\\donia samir.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\elsubky.jpeg",
+      "PackagePath": "staticwebassets\\images\\elsubky.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\fbbb2381-c365-47d2-b9fc-608a6d5a8087_Order4.jpg",
+      "PackagePath": "staticwebassets\\images\\fbbb2381-c365-47d2-b9fc-608a6d5a8087_Order4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\fbefec77-1059-4121-ad6a-60603d086530_oo3.jpg",
+      "PackagePath": "staticwebassets\\images\\fbefec77-1059-4121-ad6a-60603d086530_oo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\film .image.jpg",
+      "PackagePath": "staticwebassets\\images\\film .image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\first backgraound.jpeg",
+      "PackagePath": "staticwebassets\\images\\first backgraound.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\hanan.jpeg",
+      "PackagePath": "staticwebassets\\images\\hanan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\hop elbanat.jpeg",
+      "PackagePath": "staticwebassets\\images\\hop elbanat.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\lila.jpeg",
+      "PackagePath": "staticwebassets\\images\\lila.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\list2.jpg",
+      "PackagePath": "staticwebassets\\images\\list2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\list3.jfif",
+      "PackagePath": "staticwebassets\\images\\list3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\list6.jpg",
+      "PackagePath": "staticwebassets\\images\\list6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\main1.jpg",
+      "PackagePath": "staticwebassets\\images\\main1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\mamdoh shahin.jpeg",
+      "PackagePath": "staticwebassets\\images\\mamdoh shahin.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\mohamed fawzey.jpeg",
+      "PackagePath": "staticwebassets\\images\\mohamed fawzey.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\o9.jpg",
+      "PackagePath": "staticwebassets\\images\\o9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\order.jpg",
+      "PackagePath": "staticwebassets\\images\\order.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\poster.jpg",
+      "PackagePath": "staticwebassets\\images\\poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\images\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\shopping.jfif",
+      "PackagePath": "staticwebassets\\images\\shopping.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\shopping2.jfif",
+      "PackagePath": "staticwebassets\\images\\shopping2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\styles.css",
+      "PackagePath": "staticwebassets\\images\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\test1.webp",
+      "PackagePath": "staticwebassets\\images\\test1.webp"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\test2.jpg",
+      "PackagePath": "staticwebassets\\images\\test2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\images\\x larg.jpeg",
+      "PackagePath": "staticwebassets\\images\\x larg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mustafa\\OneDrive\\Desktop\\graphimg\\project\\eTicket_Movie-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eTickets.props",
+      "PackagePath": "build\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eTickets.props",
+      "PackagePath": "buildMultiTargeting\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eTickets.props",
+      "PackagePath": "buildTransitive\\eTickets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eTickets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

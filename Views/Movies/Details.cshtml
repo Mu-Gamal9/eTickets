@@ -1,0 +1,215 @@
+﻿@model Movie
+@using System.Globalization
+
+@{
+    CultureInfo culture = new CultureInfo("en-US"); // Set culture to English for month names and currency
+}
+
+@{
+    ViewData["Title"] = "Movie details";
+}
+
+<body style="background-size: cover; background-image: url('/images/test2.jpg'); background-repeat: no-repeat; min-height: 100vh; margin: 0;">
+    <style>
+        /* تعديل حجم الـ card */
+        .card {
+            width: 70% !important;
+            max-width: 500px;
+            height: 100vh; /* اجعل ارتفاع البطاقة 100% من ارتفاع النافذة */
+            margin: 20px auto;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            overflow-y: auto; /* إضافة شريط تمرير عمودي */
+        }
+
+
+
+
+
+        .card:hover {
+            transform: scale(1.05); /* تأثير التكبير عند تمرير الفأرة */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* تأثير الظل */
+        }
+
+        /* تعديل حجم الصور داخل البطاقة */
+        .card-img {
+            width: 100% !important;
+            height: 100px !important; /* تعديل الطول */
+            object-fit: cover !important;
+        }
+
+        /* تأثير الحركة التدريجي */
+        .card-body {
+            opacity: 0;
+            transform: translateY(30px);
+            animation: fadeInUp 0.5s forwards;
+        }
+
+        keyframes fadeInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .equal-button {
+            width: 100%;
+            height: 50px; /* تعديل الطول ليصبح ثابت */
+            transition: background-color 0.3s ease; /* إضافة تأثير الانتقال */
+        }
+
+        .equal-button:hover {
+            background-color: #28a745; /* تغيير اللون عند التمرير */
+        }
+    </style>
+
+    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+    {
+        <div class="container" style="min-height: 100vh; padding: 0;">
+            <div class="row justify-content-center">
+                <div class="col-md-8 offset-md-2" style="margin-top: 20px;">
+                    <div class="card" style="background-color: #343a40; color: #d3d3d3; width: 100%; margin: 0; border: none;">
+                        <div class="row g-0">
+                            <div class="col-md-12">
+                                <div class="card-header text-white" style="background-color: rgba(0, 0, 0, 0.1);">
+                                    <h5 class="card-title">@Model.Name</h5>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/images/@Model.ImageURL" class="card-img" alt="@Model.Name">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <p class="card-text">@Model.Description</p>
+                                    <p class="card-text"><b>Cinema: </b><a asp-controller="Cinemas" asp-action="Details" asp-route-id="@Model.CinemaId">@Model.Cinema.Name</a></p>
+                                    <p class="card-text"><b>Producer: </b><a asp-controller="Producers" asp-action="Details" asp-route-id="@Model.ProducerId">@Model.Producer.FullName</a></p>
+                                    <p class="card-text"><b>Category: </b>@Model.MovieCategory</p>
+                                    <p class="card-text"><b>Start Date: </b>@Model.StartDate.ToString("dd MMM yy", culture)</p>
+                                    <p class="card-text"><b>End Date: </b>@Model.EndDate.ToString("dd MMM yy", culture)</p>
+                                    <p class="card-text">
+                                        <b>Status: </b>
+                                        @if (DateTime.Now >= Model.StartDate && DateTime.Now <= Model.EndDate)
+                                        {
+                                            <span class="badge bg-success text-white">AVAILABLE</span>
+                                        }
+                                        else if (DateTime.Now > Model.EndDate)
+                                        {
+                                            <span class="badge bg-danger text-white">EXPIRED</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-primary text-white">UPCOMING</span>
+                                        }
+                                    </p>
+
+                                    <p class="card-text"><b>Heroes: </b></p>
+                                    <hr />
+                                    <div class="row">
+                                        @foreach (var hero in Model.Heroes_Movies)
+                                        {
+                                            <div class="col-md-4 text-center">
+                                                <img src="/images/@hero.Hero.ProfilePictureURL" class="border-info rounded-circle" style="width: 100px; height: 100px;" alt="@hero.Hero.FullName">
+                                                <br />
+                                                <a asp-controller="Heroes" asp-action="Details" asp-route-id="@hero.HeroId">@hero.Hero.FullName</a>
+                                            </div>
+                                        }
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="card-footer">
+                                <div class="form-group btn-container text-center" style="width:100%;">
+                                    <div class="row justify-content-between">
+                                        <div class="col-md-6">
+                                            <a class="btn btn-danger btn-block btn-sm equal-button text-center" asp-action="Index">
+                                                Back
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <a class="btn btn-success btn-block btn-sm text-white equal-button @((DateTime.Now > Model.EndDate) ? "disabled" : "")" asp-controller="Orders" asp-action="AddItemToShoppingCart" asp-route-id="@Model.Id">
+                                                <i class="bi bi-cart-plus"></i> Add to Cart (Price @Model.Price.ToString("c", culture))
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="container " style="min-height: 100vh; padding: 0;">
+            <div class="row justify-content-center">
+                <div class="col-md-8 offset-md-2">
+                    <div class="card" style="background-color: #343a40; color: #d3d3d3; margin: 0; width: 100%; border: none;">
+                        <img src="/images/@Model.ImageURL" class="card-img-top" alt="@Model.Name" style="width: 100%; height: auto; object-fit: cover;">
+
+                        <div class="row g-0" style="background-color: #333; color: white;">
+                            <div class="col-md-6 p-4">
+                                <p class="card-text"><b>Cinema: </b><a asp-controller="Cinemas" asp-action="Details" asp-route-id="@Model.CinemaId" style="color: #adb5bd;">@Model.Cinema.Name</a></p>
+                                <p class="card-text"><b>Producer: </b><a asp-controller="Producers" asp-action="Details" asp-route-id="@Model.ProducerId" style="color: #adb5bd;">@Model.Producer.FullName</a></p>
+                                <p class="card-text"><b>Category: </b>@Model.MovieCategory</p>
+                                <p class="card-text"><b>Start Date: </b>@Model.StartDate.ToString("dd MMM yy", culture)</p>
+                                <p class="card-text"><b>End Date: </b>@Model.EndDate.ToString("dd MMM yy", culture)</p>
+                                <p class="card-text">
+                                    <b>Status: </b>
+                                    @if (DateTime.Now >= Model.StartDate && DateTime.Now <= Model.EndDate)
+                                    {
+                                        <span class="badge bg-success text-white">AVAILABLE</span>
+                                    }
+                                    else if (DateTime.Now > Model.EndDate)
+                                    {
+                                        <span class="badge bg-danger text-white">EXPIRED</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-primary text-white">UPCOMING</span>
+                                    }
+                                </p>
+                                <p class="card-text"><b>Heroes: </b></p>
+                                <div class="row">
+                                    @foreach (var hero in Model.Heroes_Movies)
+                                    {
+                                        <div class="col-md-4 text-center">
+                                            <img src="/images/@hero.Hero.ProfilePictureURL" class="border-info rounded-circle" style="width: 100px; height: 100px;" alt="@hero.Hero.FullName">
+                                            <br />
+                                            <a asp-controller="Heroes" asp-action="Details" asp-route-id="@hero.HeroId" style="color: #adb5bd;">@hero.Hero.FullName</a>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 p-4">
+                                <h5 class="card-title text-white">@Model.Name</h5>
+                                <p class="card-text">@Model.Description</p>
+                            </div>
+                        </div>
+
+                        <div class="card-footer text-center" style="background-color: #444; color: white;">
+                            <div class="row justify-content-center">
+                                <div class="col-md-6">
+                                    <div class="row justify-content-between">
+                                        <div class="col-md-6">
+                                            <a class="btn btn-danger btn-block btn-sm equal-button text-center" asp-action="Index">
+                                                Back
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <a class="btn btn-success btn-block btn-sm text-white equal-button @((DateTime.Now > Model.EndDate) ? "disabled" : "")" asp-controller="Orders" asp-action="AddItemToShoppingCart" asp-route-id="@Model.Id">
+                                                <i class="bi bi-cart-plus"></i> Add to Cart (Price @Model.Price.ToString("c", culture))
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</body>

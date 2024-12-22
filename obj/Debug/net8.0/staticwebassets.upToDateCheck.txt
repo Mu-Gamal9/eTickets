@@ -1,0 +1,254 @@
+wwwroot\css\styles.css
+wwwroot\images\......jfif
+wwwroot\images\123.jpg
+wwwroot\images\1673539561248.jpg
+wwwroot\images\1e6027bf-2498-4b8f-ae97-210eadfec23e_Batman.jfif
+wwwroot\images\2d0924b1-e440-4868-8ed8-d458f9a09a62_test.jpg
+wwwroot\images\2f48ca41-07cc-4ad5-947c-fff41031a784_mohamed fawzey.jpeg
+wwwroot\images\3fc93604-99a7-466d-b35e-6671789aa5f3_Order4.jpg
+wwwroot\images\431627a5-1313-40d3-97c4-3b47a2fa30f1_oo.jpg
+wwwroot\images\50e2aa8e-04e5-4fdc-a683-c607d2fa03ba_Ticket.jpg
+wwwroot\images\5568123b-ba30-41a6-bff5-8311082af41d_poster.jpg
+wwwroot\images\59f8bae5-3592-4829-a1da-d90e27d4ef2c_poster.jpg
+wwwroot\images\63c4706b-1d1f-4528-bae7-5f62a8e0ae69_Batman.jfif
+wwwroot\images\6a00ba19-b516-4833-84a0-30997db8add4_oo3.jpg
+wwwroot\images\7b4a3a14-c66e-4532-ac02-5480b114020a_Christopher Nolan.jfif
+wwwroot\images\7dbf71dc-7618-46cf-b9cd-c89c35fc74c5_عاشق.jpg
+wwwroot\images\7f918697-3cc5-4af8-ba38-32b2ec370415_hero.jfif
+wwwroot\images\84d2140d-1990-4667-8aec-85ab41e09639_oo3.jpg
+wwwroot\images\917b7b56-b91b-4bee-8c71-abf1e11dd3da_Batman.jfif
+wwwroot\images\a18f718e-c9de-4590-9b61-10ad40a034b7_Christopher Nolan.jfif
+wwwroot\images\a94b7871-68fd-4233-a0d1-d0be9e2a8b82_contact.jpeg
+wwwroot\images\About.jpg
+wwwroot\images\About1.jpg
+wwwroot\images\About2.png
+wwwroot\images\Add.jpg
+wwwroot\images\Add1.jfif
+wwwroot\images\Add2.jpg
+wwwroot\images\AdminDelete.png
+wwwroot\images\AdminDetails.jfif
+wwwroot\images\AdminDetails1.jfif
+wwwroot\images\AdminDetails1.jpg
+wwwroot\images\AdminDetails2.jfif
+wwwroot\images\AdminDetails2.jpg
+wwwroot\images\AdminDetails3.jfif
+wwwroot\images\AdminDetails3.jpg
+wwwroot\images\AdminDetails4.jfif
+wwwroot\images\AdminDetails4.jpg
+wwwroot\images\AdminDetails5.jfif
+wwwroot\images\AdminDetails5.jpg
+wwwroot\images\AdminDetails6.jpg
+wwwroot\images\AdminDetails7.png
+wwwroot\images\AdminDetails8.jpg
+wwwroot\images\AdminDetails9.png
+wwwroot\images\AdminEdit.jpg
+wwwroot\images\ahmed helmy.jpeg
+wwwroot\images\All.jpg
+wwwroot\images\AllAdmin.jpg
+wwwroot\images\AllAdmin1.jpg
+wwwroot\images\AllAdmin2.jpg
+wwwroot\images\AllHeroes.jfif
+wwwroot\images\Asl Esod.jpeg
+wwwroot\images\b4429fd4-0811-45a4-8208-dcbddf8718eb_oo1.jpg
+wwwroot\images\b8569708-bc55-4cf5-85b2-58115f0e868f_Batman.jfif
+wwwroot\images\b8ecc5c3-87d9-4bda-8fe1-c73e58f98f19_Batman.jfif
+wwwroot\images\backgraound.jpeg
+wwwroot\images\Batman.jfif
+wwwroot\images\Black Panther.jfif
+wwwroot\images\blue white.jpg
+wwwroot\images\Bradley Cooper.jfif
+wwwroot\images\c181e447-279d-4f3d-9c00-79c056da40c3_oo3.jpg
+wwwroot\images\Children's Cinemas.jfif
+wwwroot\images\Christian Bale.jfif
+wwwroot\images\Christopher Nolan.jfif
+wwwroot\images\Cinema.jfif
+wwwroot\images\cinema.jpg
+wwwroot\images\Cinema1.jpg
+wwwroot\images\Cinema2.jfif
+wwwroot\images\Cinema2.jpg
+wwwroot\images\Cinema3.jpg
+wwwroot\images\Cinema4.jpg
+wwwroot\images\Cinema5.jpg
+wwwroot\images\Cinema6.jfif
+wwwroot\images\cinema8.jpg
+wwwroot\images\Community Cinemas.jfif
+wwwroot\images\Complete.jfif
+wwwroot\images\Complete1.jpg
+wwwroot\images\Complete2.jpg
+wwwroot\images\completeRegister.jpg
+wwwroot\images\concept.jpg
+wwwroot\images\d706e0a0-479a-4334-94f8-18b89b7d6f97_Christopher Nolan.jfif
+wwwroot\images\d7ed7ce7-a6d0-4767-a83b-79835f655e88_ahmed helmy.jpeg
+wwwroot\images\DeleteAdmin.jfif
+wwwroot\images\DeleteAdmin1.jpg
+wwwroot\images\Detail.jpg
+wwwroot\images\Details.jfif
+wwwroot\images\Details.jpg
+wwwroot\images\Details1.jpg
+wwwroot\images\Details6.jpg
+wwwroot\images\donia samir.jpeg
+wwwroot\images\Drive-In Cinemas.jfif
+wwwroot\images\Ed Helms.jfif
+wwwroot\images\Edit.jpg
+wwwroot\images\Edit1.jpg
+wwwroot\images\elsubky.jpeg
+wwwroot\images\f1.png
+wwwroot\images\f2.png
+wwwroot\images\f3.png
+wwwroot\images\f4.png
+wwwroot\images\f5.png
+wwwroot\images\f6.png
+wwwroot\images\f7.png
+wwwroot\images\favicon.ico
+wwwroot\images\fbbb2381-c365-47d2-b9fc-608a6d5a8087_Order4.jpg
+wwwroot\images\fbefec77-1059-4121-ad6a-60603d086530_oo3.jpg
+wwwroot\images\film .image.jpg
+wwwroot\images\first backgraound.jpeg
+wwwroot\images\Forrest Gump.jfif
+wwwroot\images\Fred Rogers.jfif
+wwwroot\images\George Miller.jfif
+wwwroot\images\hanan.jpeg
+wwwroot\images\HellBoy.jpg
+wwwroot\images\Hero.jpg
+wwwroot\images\hop elbanat.jpeg
+wwwroot\images\IMAX Theaters.jfif
+wwwroot\images\Independent Cinemas.jfif
+wwwroot\images\Iron Man.jfif
+wwwroot\images\Jack Nicholson.jfif
+wwwroot\images\Jonah Hill.jfif
+wwwroot\images\Judd Apatow.jfif
+wwwroot\images\Leonardo DiCaprio.jfif
+wwwroot\images\lila.jpeg
+wwwroot\images\List.jpg
+wwwroot\images\List1.jpg
+wwwroot\images\list2.jpg
+wwwroot\images\list3.jfif
+wwwroot\images\List4.jpg
+wwwroot\images\List5.jfif
+wwwroot\images\list6.jpg
+wwwroot\images\Luc Jacquet.jfif
+wwwroot\images\Mad Max.jfif
+wwwroot\images\main.jpg
+wwwroot\images\main1.jpg
+wwwroot\images\mamdoh shahin.jpeg
+wwwroot\images\March of the Penguins.jfif
+wwwroot\images\Michael Cera.jfif
+wwwroot\images\mohamed fawzey.jpeg
+wwwroot\images\Morgan Freeman.jfif
+wwwroot\images\Morgan Neville.jfif
+wwwroot\images\MovieDetails.jpg
+wwwroot\images\MovieDetails2.jpg
+wwwroot\images\MovieEdit.jpg
+wwwroot\images\Multiplex Cinemas.jfif
+wwwroot\images\Niki Marvin.jfif
+wwwroot\images\o9.jpg
+wwwroot\images\order.jpg
+wwwroot\images\Order1.jpg
+wwwroot\images\Order2.jpg
+wwwroot\images\Order4.jpg
+wwwroot\images\Order5.jpg
+wwwroot\images\Order6.jpg
+wwwroot\images\Order7.jpg
+wwwroot\images\Order8.jpg
+wwwroot\images\Pixar Animation Studios.jfif
+wwwroot\images\poster.jpg
+wwwroot\images\Privacy.jpg
+wwwroot\images\Privacy2.jpg
+wwwroot\images\profile.jpg
+wwwroot\images\Profile1.jpg
+wwwroot\images\Profile2.jpg
+wwwroot\images\Profile3.jpg
+wwwroot\images\Profile4.jpg
+wwwroot\images\Profile6.jpg
+wwwroot\images\Profile7.png
+wwwroot\images\Profile8.jpg
+wwwroot\images\RegisterLogin.jpg
+wwwroot\images\RegisterLogin1.jpg
+wwwroot\images\Screenshot 2024-09-08 184044.jpg
+wwwroot\images\shopping.jfif
+wwwroot\images\Shopping.png
+wwwroot\images\Shopping1.jfif
+wwwroot\images\shopping2.jfif
+wwwroot\images\Shopping2.jpg
+wwwroot\images\Specialty Cinemas.jfif
+wwwroot\images\Stanley Kubrick.jfif
+wwwroot\images\styles.css
+wwwroot\images\Superbad.jfif
+wwwroot\images\test1.webp
+wwwroot\images\test2.jpg
+wwwroot\images\The Dark Knight.jfif
+wwwroot\images\The Hangover.jfif
+wwwroot\images\The Shawshank Redemption.jfif
+wwwroot\images\The Shining.jfif
+wwwroot\images\Tim Allen.jfif
+wwwroot\images\Tim Robbins.jfif
+wwwroot\images\Todd Phillips.jfif
+wwwroot\images\Tom Hanks.jfif
+wwwroot\images\Tom Hardy.jfif
+wwwroot\images\Users.png
+wwwroot\images\VIP or Luxury Cinemas.jfif
+wwwroot\images\Welcome.jpg
+wwwroot\images\Wendy Finerman.jfif
+wwwroot\images\WhatsApp Image 2024-06-12 at 22.26.31_71f49426.jpg
+wwwroot\images\WhatsApp_Image_2024-06-12_at_22.26.31_71f49426-removebg-preview.png
+wwwroot\images\Won't_You_Be_My_Neighbor.jfif
+wwwroot\images\x larg.jpeg
+wwwroot\images\Zach Galifianakis.jfif
+wwwroot\js\scripts.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

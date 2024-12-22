@@ -1,0 +1,140 @@
+﻿@model Hero
+
+@{
+    ViewData["Title"] = "Details of the hero";
+}
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <style>
+        body {
+            background-image: url('/images/AdminDetails9.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: 'Arial', sans-serif; /* اختيار خط أكثر احترافية */
+        }
+
+        .hero-card {
+            background-color: rgba(50, 50, 50, 0.9); /* لون خلفية أغمق قليلاً */
+            color: #f0f0f0; /* لون خط أخف */
+            border-radius: 15px;
+            padding: 30px; /* زيادة الهوامش الداخلية */
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7); /* ظل أعمق */
+            margin-top: 20px; /* إضافة هوامش علوية */
+            transition: transform 0.3s ease, box-shadow 0.3s ease; /* تأثيرات الانتقال */
+        }
+
+            .hero-card:hover {
+                transform: scale(1.02); /* تأثير تكبير خفيف عند التمرير */
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.8); /* ظل أعمق عند التمرير */
+            }
+
+        .hero-img {
+            max-width: 150px;
+            border: 3px solid #ff6347; /* حدود برتقالية */
+            margin-bottom: 15px; /* إضافة مساحة أسفل الصورة */
+        }
+
+        .btn-outline-secondary, .btn-outline-success {
+            border-radius: 20px;
+            transition: background-color 0.3s ease; /* إضافة تأثيرات انتقال */
+        }
+
+            .btn-outline-success:hover {
+                background-color: #28a745; /* لون خلفية عند التمرير */
+                color: white; /* لون نص عند التمرير */
+            }
+
+        .form-group label {
+            font-weight: bold;
+            color: #ffda79; /* ألوان واضحة */
+            margin-bottom: 5px; /* إضافة مساحة أسفل العنصر */
+        }
+    </style>
+
+    <div class="row text">
+        <div class="col-md-6 offset-2">
+            <h1 class="text-white-50"><strong>Details for @Model.FullName</strong></h1>
+            <div class="row">
+                <div class="col-md-8 offset-2 hero-card">
+                    <div class="form-group text-center">
+                        <img class="hero-img rounded-circle" id="LogoPreview" src="@Url.Content("~/images/" + Model.ProfilePictureURL)" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FullName" class="control-label"></label>
+                        <input asp-for="FullName" class="form-control" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Biography" class="control-label"></label>
+                        <input asp-for="Biography" class="form-control" readonly />
+                    </div>
+
+                    <div class="form-group d-flex justify-content-between" style="margin-top: 20px;">
+                        <a class="btn btn-outline-success" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@if (!User.IsInRole("Admin"))
+{
+    <style>
+        body {
+            background-image: url('/images/Hero.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: 'Arial', sans-serif; /* اختيار خط أكثر احترافية */
+        }
+
+        .hero-card {
+            background-color: rgba(44, 44, 44, 0.8); /* لون خلفية أفتح قليلاً */
+            color: #ffffff;
+            border-radius: 15px;
+            padding: 30px; /* زيادة الهوامش الداخلية */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+            margin-top: 20px; /* إضافة هوامش علوية */
+        }
+
+        .hero-img {
+            max-width: 150px;
+            border: 3px solid #ff4500; /* حدود برتقالية */
+            margin-bottom: 15px; /* إضافة مساحة أسفل الصورة */
+        }
+
+        .form-group label {
+            color: #ffda79;
+            font-weight: bold;
+            margin-bottom: 5px; /* إضافة مساحة أسفل العنصر */
+        }
+    </style>
+
+    <div class="row text">
+        <div class="col-md-7 offset-5 mt-lg-5">
+            <h1 class="m-lg-5 text-white-50">Details for @Model.FullName</h1>
+            <div class="row">
+                <div class="col-md-8 offset-2 mt-lg-5 hero-card">
+                    <div class="form-group text-center">
+                        <img class="hero-img rounded-circle" id="LogoPreview" src="@Url.Content("~/images/" + Model.ProfilePictureURL)" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FullName" class="control-label"></label>
+                        <input asp-for="FullName" class="form-control" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Biography" class="control-label"></label>
+                        <input asp-for="Biography" class="form-control" readonly />
+                    </div>
+
+                    <div class="form-group d-flex justify-content-between" style="margin-top: 20px;">
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

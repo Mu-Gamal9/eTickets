@@ -1,0 +1,98 @@
+﻿@model List<Order>
+@using System.Globalization
+@{
+    Layout = null;
+}
+
+@{
+    CultureInfo culture = new CultureInfo("en-US"); // Set culture to English for month names and currency
+}
+@{
+    ViewData["Title"] = "All orders";
+}
+<body style=" background-size: cover; background-image: url('/images/Order8.jpg'); background-repeat: no-repeat; object-fit: cover;">
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow p-4" style="margin-top: 45%; margin-left: 30em; width: 50em; height: 20em; background-color: #f8f9fa;">
+                    <h4 class="text-center mb-4">List of all your orders</h4>
+
+                    <table class="table table-bordered table-hover">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Order ID</th>
+                                <th>Items</th>
+                                <th>Total</th>
+                                <th>Feedback</th>
+                                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                {
+                                    <th>User</th>
+                                }
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var order in Model)
+                            {
+                                <tr>
+                                    <td class="align-middle">@order.Id</td>
+                                    <td class="align-middle">
+                                        <ul class="list-unstyled">
+                                            @foreach (var item in order.OrderItems)
+                                            {
+                                                <li>
+                                                    <div class="alert alert-info" role="alert">
+                                                        <span class="badge bg-success">@item.Amount</span> [@item.Price.ToString("c", culture)] - @item.Movie.Name
+                                                    </div>
+                                                </li>
+                                            }
+                                        </ul>
+                                    </td>
+                                    <td class="align-middle">
+                                        @order.OrderItems.Select(m => m.Movie.Price * m.Amount).Sum().ToString("c", culture)
+                                    </td>
+                                    <td class="align-middle">
+                                        @{
+                                            var canGiveFeedback = order.OrderItems.Any(item => item.Movie.EndDate <= DateTime.Now);
+                                        }
+                                        <button class="btn feedback-btn @((canGiveFeedback) ? "btn-success" : "btn-dark")"
+                                        @(canGiveFeedback ? "" : "disabled")
+                                                data-order-id="@order.Id">
+                                            Feedback
+                                        </button>
+                                    </td>
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                    {
+                                        <td class="align-middle">@order.User.FullName</td>
+                                    }
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <div class="text-center mt-4">
+                        <a href="/" class="btn rounded-circle d-flex justify-content-center align-items-center shadow"
+                           style="width: 100px; height: 100px; background: linear-gradient(135deg, #28a745, #218838); color: white;
+              border: none; text-decoration: none; font-size: 1.5rem; font-weight: bold;">
+                            Back
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.feedback-btn').forEach(button => {
+            button.addEventListener('click', function () {
+                const orderId = this.getAttribute('data-order-id');
+
+                if (!this.classList.contains('btn-dark')) {
+                    // Redirect to feedback form (WriteFeedback page)
+                    window.location.href = `/Orders/WriteFeedback?orderId=${orderId}`;
+                } else {
+                    alert('Feedback is not available for this order yet.');
+                }
+            });
+        });
+    </script>
+</body>

@@ -1,0 +1,78 @@
+﻿@model MovieSeatsVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Select Seats</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body style="background-image: url('/images/cinema-background.jpg'); background-size: cover;">
+
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">@Model.Movie.Name</h2>
+
+        <!-- عرض الكراسي من 1 إلى 10 -->
+        <div class="row">
+            @for (int i = 1; i <= 10; i++)
+            {
+                <div class="col-md-3 mb-3">
+                    <div class="card text-center seat-card" style="cursor: pointer;" onclick="selectSeat(@i)">
+                        <div class="card-body">
+                            <h5 class="card-title">Seat @i</h5>
+                            <p class="card-text">
+                                <span class="text-success">Available</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="text-center mt-4">
+            <button class="btn btn-primary" id="bookSeatButton" style="display:none;" onclick="bookSeat()">Book Seat</button>
+        </div>
+    </div>
+
+    <script>
+        var selectedSeatId = null;
+
+        function selectSeat(seatId) {
+            // إذا تم اختيار نفس الكرسي، نقوم بإلغاء تحديده
+            if (selectedSeatId === seatId) {
+                document.getElementById('bookSeatButton').style.display = 'none'; // إخفاء زر الحجز
+                selectedSeatId = null;
+                resetSeatStyles(); // إعادة الشكل الأصلي لكل الكراسي
+            } else {
+                selectedSeatId = seatId;
+                document.getElementById('bookSeatButton').style.display = 'block'; // إظهار زر الحجز
+                resetSeatStyles(); // إعادة الشكل الأصلي لكل الكراسي
+                highlightSelectedSeat(seatId); // تغيير شكل الكرسي المختار
+            }
+        }
+
+        function highlightSelectedSeat(seatId) {
+            // تغيير الشكل للكرسي المختار
+            var seatElement = document.querySelector(`.seat-card:nth-child(${seatId})`);
+            seatElement.style.backgroundColor = '#ffcc00'; // تغيير اللون إلى اللون البرتقالي
+            seatElement.style.border = '2px solid #ff9900'; // إضافة إطار حول الكرسي
+        }
+
+        function resetSeatStyles() {
+            // إعادة الشكل الأصلي لكل الكراسي
+            var seatElements = document.querySelectorAll('.seat-card');
+            seatElements.forEach(function (seat) {
+                seat.style.backgroundColor = ''; // إعادة اللون الأصلي
+                seat.style.border = ''; // إزالة الإطار
+            });
+        }
+
+        function bookSeat() {
+            if (selectedSeatId !== null) {
+                window.location.href = '@Url.Action("ShoppingCart", "Orders")?seatId=' + selectedSeatId + '&movieId=@Model.Movie.Id';
+            }
+        }
+    </script>
+</body>
+</html>

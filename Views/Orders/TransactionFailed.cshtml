@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "TransactionFailed";
+}
+
+<h1>TransactionFailed</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transaction Failed</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        .fullscreen {
+            height: 100vh;
+        }
+
+        body {
+            background-size: cover;
+            background-image: url('/images/failed.jpg');
+            background-repeat: no-repeat;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row justify-content-center align-items-center fullscreen">
+            <div class="col-md-6 alert alert-danger text-center">
+                <h2>Transaction Failed</h2>
+                <p>Unfortunately, your payment could not be completed. Please try again later or contact support if the issue persists.</p>
+                <hr />
+                <a class="btn btn-outline-primary" href="@Url.Action("ShoppingCart","Orders")">Return to Shopping Cart</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

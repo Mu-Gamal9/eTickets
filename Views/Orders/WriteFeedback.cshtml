@@ -1,0 +1,36 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Write Feedback";
+}
+
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow p-4">
+                    <h4 class="text-center mb-4">Write your feedback</h4>
+                    <form id="feedbackForm">
+                        <div class="form-group">
+                            <label for="feedbackText">Your Feedback</label>
+                            <textarea class="form-control" id="feedbackText" rows="4"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Submit Feedback</button>
+                    </form>
+                    <div class="mt-4">
+                        <a href="/" class="btn btn-secondary btn-block">Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('feedbackForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const feedbackText = document.getElementById('feedbackText').value;
+            alert("Feedback Submitted: " + feedbackText);
+            // Optionally, clear the feedback text after submission
+            document.getElementById('feedbackText').value = '';
+        });
+    </script>
+</body>
